@@ -192,6 +192,10 @@ strong{ font-weight: normal }
 .pt-10{
     padding-top: 10px;
 }
+.mx-15{
+  margin-left: -15px;
+  margin-right: -15px;
+}
 
 
 h1 {
