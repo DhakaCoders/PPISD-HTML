@@ -36,6 +36,10 @@
 .heading-red-color h1{
 	color: #bb2626;
 }
+.heading-blue-color h2,
+.heading-red-color h1{
+	color: #031f35;
+}
 
 .pp-dot-divider{
 	padding-left: 41px;
@@ -80,7 +84,7 @@
 }
 .pp-grp-sec-dotted-bx ul li span{
 	margin-left: -14px;
-	padding-right: 10px;
+	padding-right: 6px;
 }
 .pp-grp-sec-dotted-bx ul li strong{
 	font-family: "SourceSansPro-Bold";
@@ -99,9 +103,11 @@
 .pp-grp-sec-dotted-bx-more a:hover{
 	color: #be3333;
 }
-.pp-grp-sec-dotted-bx-more a span{
-	padding-right: 15px;
-	display: inline-block;
+.pp-grp-sec-dotted-bx-more a span {
+    padding-right: 15px;
+    display: inline-block;
+    position: relative;
+    top: -1px;
 }
 .pp-grp-sec-dotted-bx-more{
 	padding-bottom: 35px;
@@ -134,7 +140,13 @@
 .pp-grp-sec-27 .pp-grp-sec-entry-hdr h2{
 	font-size: 33px;
 }
-
+.payment-icon a{
+	display: inline-block;
+	vertical-align: baseline;
+}
+.payment-icon a:hover{
+	opacity: .88;
+}
 .book-img-03-part2{
 	padding-bottom: 20px;
 }
@@ -162,18 +174,27 @@
 
 .pp-ftr-sec{
 	padding: 50px 0 45px;
-	border-top: 2px dashed #a5a5a5;
+	
 	text-align: center;
+	position: relative;
 }
-
+.pp-ftr-sec:before{
+	content: "";
+	height: 2px;
+	position: absolute;
+	left: 15px;
+	right: 15px;
+	top: 0;
+	border-top: 2px dashed #a5a5a5;
+}
 .pp-ftr-nav{
 	text-align: center;
-	padding-bottom: 35px;
+	padding-bottom: 30px;
 }
 .pp-ftr-nav ul li{
 	display: inline-block;
 	vertical-align: baseline;
-	padding: 0 16px;
+	padding: 0 5px;
 	position: relative;
 }
 .pp-ftr-nav ul li:not(:last-child):after{
@@ -187,11 +208,14 @@
 	-ms-transform: translateY(-50%);
 	-webkit-transform: translateY(-50%);
 	right: 0;
-	margin-right: -3px;
+	margin-right: -5px;
 	margin-top: 1px;
 }
 .pp-ftr-nav ul li a{
 	color: #0d41b3;
+}
+.pp-ftr-nav ul li a:hover{
+	color: #000;
 }
 
 .pp-ftr-des p{
@@ -212,6 +236,17 @@
 	margin-bottom: 25px;
 }
 .pp-ftr-des{
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.pp-grp-sec-25{
+	padding-bottom: 15px;
+}
+
+.pp-grp-sec-32 .payment-icon{
+	padding-bottom: 25px;
+}
+
+.book-img-07-part2{
+	padding-top: 25px;
 }
