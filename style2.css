@@ -24,8 +24,97 @@
 .pp-grp-sec-entry-hdr h2 strong{
 	font-family: "PTSerif-Bold";
 }
+.pp-grp-sec-entry-hdr h1,
+.pp-grp-sec-entry-hdr h2{
+	margin-bottom: 35px;
+}
 .heading-red-color h2,
 .heading-red-color h1{
 	color: #bb2626;
-	margin-bottom: 35px;
+}
+
+.pp-dot-divider{
+	padding-left: 41px;
+	padding-right: 41px;
+	padding-top: 10px;
+	padding-bottom: 45px;
+}
+.pp-dot-divider span{
+	display: block;
+	height: 4px;
+	background-position: left center!important;
+	background-repeat: repeat-x!important;
+}
+.book-img-01-part2{
+	padding-bottom: 30px;
+}
+.pp-grp-sec-multi-heading{
+	text-align: center;
+}
+.pp-grp-sec-multi-heading h2{
+	margin-bottom: 45px;
+	font-size: 34px;
+}
+.pp-grp-sec-multi-heading h2 strong{
+	font-family: "PTSerif-Bold";
+}
+.color-red{
+	color: #b10000;
+}
+
+.pp-grp-sec-dotted-bx{
+	max-width: 575px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px dotted #a5a5a5;
+	padding: 25px 20px 2px 30px;
+	margin-bottom: 25px;
+}
+.pp-grp-sec-dotted-bx ul li{
+	padding-bottom: 25px;
+}
+.pp-grp-sec-dotted-bx ul li span{
+	margin-left: -14px;
+	padding-right: 10px;
+}
+.pp-grp-sec-dotted-bx ul li strong{
+	font-family: "SourceSansPro-Bold";
+}
+
+.pp-grp-sec-dotted-bx ul li em{
+  font-family: "SourceSansPro-Italic";	
+}
+
+.pp-grp-sec-dotted-bx-more{
+	text-align: center;
+}
+.pp-grp-sec-dotted-bx-more a{
+	color: #000000;
+}
+.pp-grp-sec-dotted-bx-more a:hover{
+	color: #be3333;
+}
+.pp-grp-sec-dotted-bx-more a span{
+	padding-right: 15px;
+	display: inline-block;
+}
+.pp-grp-sec-dotted-bx-more{
+	padding-bottom: 35px;
+}
+.pp-grp-sec-23,
+.pp-grp-sec-24{
+	padding-bottom: 15px;
+}
+.pp-dft-txt-module ul{
+	padding-top: 5px;
+}
+.pp-dft-txt-module ul li{
+	position: relative;
+	padding: 0 0 30px 45px;
+}
+.pp-dft-txt-module ul li span{
+	position: absolute;
+	left: 0;
+	top: 0;
 }
