@@ -34,6 +34,16 @@
   font-display: swap;
 }
 @font-face {
+  font-family: "SourceSansPro-Italic";
+  src: url("assets/fonts/SourceSansPro-Italic/SourceSansPro-Italic.woff") format("woff"),
+    url("assets/fonts/SourceSansPro-Italic/SourceSansPro-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
   font-family: "SourceSansPro-BoldItalic";
   src: url("assets/fonts/SourceSansPro-BoldItalic/SourceSansPro-BoldItalic.woff") format("woff"),
     url("assets/fonts/SourceSansPro-BoldItalic/SourceSansPro-BoldItalic.woff2") format("woff2");
@@ -121,11 +131,11 @@ img {
     z-index: 10
 }
 .container {
-  max-width: 920px;
+  max-width: 940px;
   width: 100%;
 }
 .ppisd-all-sections-wrap{
-  max-width: 950px;
+  max-width: 970px;
   padding-left: 15px;
   padding-right: 15px;
   width: 100%;
@@ -164,7 +174,7 @@ img {
 }
 
 
-p { margin-bottom: 28px }
+p { margin-bottom: 25px }
 a { word-wrap: break-word }
 strong{ font-weight: normal }
 i{ font-style: normal }
@@ -222,7 +232,11 @@ h4 {
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
   margin-top: 0;
+<<<<<<< HEAD
   line-height: 1;  
+=======
+  line-height: 1.1;  
+>>>>>>> 6acf9dca60cb6222e45896c85b18c2ec52394d7c
   font-family: "PTSerif-Regular";    
 }  
 
