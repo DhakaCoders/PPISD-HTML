@@ -246,10 +246,11 @@ h4 {
   .show-lg{
     display: block!important;
   }
+  br,
   p br{
     display: none;
   }
-
+  
 }
 
 @media(max-width: 991px){
