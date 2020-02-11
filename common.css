@@ -25,7 +25,14 @@
   font-style: normal;
   font-display: swap;
 }
-
+@font-face {
+  font-family: "SourceSansPro-Italic";
+  src: url("assets/fonts/SourceSansPro-Italic/SourceSansPro-Italic.woff") format("woff"),
+    url("assets/fonts/SourceSansPro-Italic/SourceSansPro-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 @font-face {
   font-family: "SourceSansPro-BoldItalic";
   src: url("assets/fonts/SourceSansPro-BoldItalic/SourceSansPro-BoldItalic.woff") format("woff"),
@@ -160,6 +167,8 @@ img {
 p { margin-bottom: 28px }
 a { word-wrap: break-word }
 strong{ font-weight: normal }
+i{ font-style: normal }
+
 .plr-30 {
     padding-left: 30px!important;
     padding-right: 30px!important
@@ -181,13 +190,13 @@ strong{ font-weight: normal }
     margin-left: -10px;
 }
 .ml-5{
-    margin-left: -5px;
+    margin-left: -5px!important;
 }
 .mr-10{
     margin-right: -10px;
 }
 .mr-5{
-    margin-right: -5px;
+    margin-right: -5px!important;
 }
 .pt-10{
     padding-top: 10px;
@@ -213,7 +222,7 @@ h4 {
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
   margin-top: 0;
-  line-height: 1.2;  
+  line-height: 1;  
   font-family: "PTSerif-Regular";    
 }  
 
