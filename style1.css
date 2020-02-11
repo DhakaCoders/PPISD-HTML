@@ -32,8 +32,6 @@ p i{
 p span.spn-bi{
    font-family: "SourceSansPro-BoldItalic";
 }
-
-
 h1 strong,
 h2 strong,
 h3 strong,
@@ -61,24 +59,18 @@ h6 span.spn-bi {
 .red-head{
 	color: #b10000!important;
 }
-
 .mm-group-sec-2{
 	padding-top: 40px;
 }
-
 .mm-group-sec-2 .mm-dft-head{
 	padding:0 25px ;
 }
-
 .mm-group-sec-2 .mm-dft-head h2:first-child{
 	margin-bottom: 40px;
 }
 .mm-group-sec-2 .mm-dft-head h2:last-child{
 	margin-bottom: 25px;
 }
-
-
-
 .mm-group-sec-2 p.big{
 	font-size: 25px;
 	font-family: "PTSerif-Regular";
@@ -108,23 +100,12 @@ h6 span.spn-bi {
 	vertical-align: baseline;
 	max-width: 444%
 }
-
-
-
-
-
-
-
-
 .mm-group-sec-3 .mm-dft-head h2:first-child{
 	margin-bottom: 40px;
 }
 .mm-group-sec-3 .mm-dft-head h2:last-child{
 	margin-bottom: 25px;
 }
-
-
-
 .mm-dft-dot-line{
 	padding: 0 45px 20px 45px;
 }
@@ -133,7 +114,6 @@ h6 span.spn-bi {
 	width: 100%;
 	border-top: 2px dotted #bababa;
 }
-
 .mm-group-sec-4 .mm-dft-head h2{
 	margin-bottom: 32px;
 }
@@ -141,11 +121,73 @@ h6 span.spn-bi {
 .mm-group-sec-5 .mm-dft-head h2{
 	margin-bottom: 35px;
 }
-
-
 .mm-group-sec-6 .mm-dft-head h2{
 	margin-bottom: 37px;
 }
+
+
+.mm-group-sec-7 .mm-dft-head h2:first-child{
+	margin-bottom: 40px;
+}
+.mm-group-sec-7 .mm-dft-head h2:last-child{
+	margin-bottom: 25px;
+}
+
+
+
+
+
+.mm-group-sec-11 .mm-dft-head h2:first-child{
+	margin-bottom: 40px;
+}
+.mm-group-sec-11 .mm-dft-head h2:last-child{
+	margin-bottom: 25px;
+}
+
+
+.mm-group-sec-16{
+	background: #f5f5f5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
