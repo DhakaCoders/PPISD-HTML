@@ -232,11 +232,7 @@ h4 {
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
   margin-top: 0;
-<<<<<<< HEAD
-  line-height: 1;  
-=======
-  line-height: 1.1;  
->>>>>>> 6acf9dca60cb6222e45896c85b18c2ec52394d7c
+  line-height: 1.1;
   font-family: "PTSerif-Regular";    
 }  
 
