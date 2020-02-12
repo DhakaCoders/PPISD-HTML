@@ -2,7 +2,7 @@ part-1
 Desktop
 -----------
 1.https://www.screencast.com/t/gNAo8lVPp4
-	ai strong ta missing
+	ai strong ta missing --done
 
 2. https://www.screencast.com/t/jApuvBXn
 	break daw

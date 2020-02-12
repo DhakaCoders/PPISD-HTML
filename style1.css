@@ -313,15 +313,12 @@ h4 span.spn-bi{
 }
 
 
-
 .mm-group-sec-20 h2{
 	margin-bottom: 37px;
 }
 .mm-group-sec-20 .mm-dft-two-part{
 	padding-bottom: 25px
 }
-
-
 
 
 .mm-group-sec-21{
@@ -338,7 +335,6 @@ h4 span.spn-bi{
 }
 
 
-
 .mm-group-sec-22{
 	padding-top: 10px;
 }
@@ -350,7 +346,6 @@ h4 span.spn-bi{
 }
 
 
-
 .mm-group-sec-23{
 	padding-top: 5px;
 }
@@ -360,7 +355,6 @@ h4 span.spn-bi{
 .mm-group-sec-23 .mm-dft-two-part{
 	padding-bottom: 30px
 }
-
 
 
 .mm-group-sec-24{
@@ -388,7 +382,8 @@ h4 span.spn-bi{
 	.mm-dft-two-part .mm-dft-img{
 		width: 	100%;
 		text-align: center;
-		margin-bottom: 25px;
+		margin:0!important;
+		margin-bottom: 25px!important;
 	}
 	.mm-dft-two-part.two-part-reverse .mm-dft-des,
 	.mm-dft-two-part .mm-dft-des{
@@ -401,7 +396,10 @@ h4 span.spn-bi{
 }
 
 @media(max-width: 767px){
+	.mm-group-sec-2 .mm-dft-head h2:first-child,
+	.mm-group-sec-3 .mm-dft-head h2:first-child,
 	.mm-group-sec-5 .mm-dft-head h2,
+	.mm-group-sec-7 .mm-dft-head h2:first-child,
 	.mm-group-sec-8 .mm-dft-head h2,
 	.mm-group-sec-9 .mm-dft-head h2,
 	.mm-group-sec-10 .mm-dft-head h2,
@@ -409,13 +407,12 @@ h4 span.spn-bi{
 	.mm-group-sec-11 .mm-dft-head h2:last-child ,
 	.mm-group-sec-12 .mm-dft-head h2,
 	.mm-group-sec-13 .mm-dft-head h2 ,
-	.mm-group-sec-18 h3,
-	.mm-group-sec-20 h3,
-	.mm-group-sec-7 .mm-dft-head h2:first-child,
-	.mm-group-sec-21 .mm-dft-head h3:first-child,
-	.mm-group-sec-24 .mm-dft-head h3{
-    margin-bottom: 28px;
-}
+	.mm-group-sec-18 h2,
+	.mm-group-sec-20 h2,
+	.mm-group-sec-21 .mm-dft-head h2:first-child,
+	.mm-group-sec-24 .mm-dft-head h2{
+	    margin-bottom: 28px;
+	}
 }
 
 @media(max-width: 575px){
