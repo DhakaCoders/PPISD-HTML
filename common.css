@@ -246,9 +246,6 @@ h4 {
   .show-lg{
     display: block!important;
   }
-  p br{
-    display: none;
-  }
 
 }
 
@@ -259,7 +256,9 @@ h4 {
   .show-md{
     display: block!important;
   }
-
+  p br{
+    display: none;
+  }
 
 }
 
