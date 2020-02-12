@@ -1,0 +1,28 @@
+part-1
+Desktop
+-----------
+1.https://www.screencast.com/t/gNAo8lVPp4
+	ai strong ta missing
+
+2. https://www.screencast.com/t/jApuvBXn
+	break daw
+
+3. https://www.screencast.com/t/cij6XOLSzCEH
+	gap ta aktu besi mone hosche
+
+4. https://www.screencast.com/t/N9xnNpGsbcJ
+	https://www.screencast.com/t/aB3C3VAYpNr
+	https://www.screencast.com/t/OxSiLPyVu0
+
+	br ta tule daw
+	ai rokom sob heading gulo psd ar sathe check kore dekho. jetate brk lagbe daw. jetate lagbena badh diye daw
+
+5. https://www.screencast.com/t/fNKMkfvDNO
+	des padding-right ta 20px kore daw. tahole line brk gulo kichu thik thake
+
+6. https://www.screencast.com/t/EgNTDdGAKA
+	italic hobe
+
+7. https://www.screencast.com/t/mSVtfVmM
+	strong hobe
+
