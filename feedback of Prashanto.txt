@@ -5,24 +5,24 @@ Desktop
 	ai strong ta missing --done
 
 2. https://www.screencast.com/t/jApuvBXn
-	break daw
+	break daw --done
 
 3. https://www.screencast.com/t/cij6XOLSzCEH
-	gap ta aktu besi mone hosche
+	gap ta aktu besi mone hosche --done
 
 4. https://www.screencast.com/t/N9xnNpGsbcJ
 	https://www.screencast.com/t/aB3C3VAYpNr
 	https://www.screencast.com/t/OxSiLPyVu0
 
 	br ta tule daw
-	ai rokom sob heading gulo psd ar sathe check kore dekho. jetate brk lagbe daw. jetate lagbena badh diye daw
+	ai rokom sob heading gulo psd ar sathe check kore dekho. jetate brk lagbe daw. jetate lagbena badh diye daw  >> psd te emone break chilo, milche bole emon dekhacche, br tule dichi --done
 
 5. https://www.screencast.com/t/fNKMkfvDNO
-	des padding-right ta 20px kore daw. tahole line brk gulo kichu thik thake
+	des padding-right ta 20px kore daw. tahole line brk gulo kichu thik thake >> jegolo te lagche segolote kore dichi sobgola change kori ni
 
 6. https://www.screencast.com/t/EgNTDdGAKA
-	italic hobe
+	italic hobe  --done
 
 7. https://www.screencast.com/t/mSVtfVmM
-	strong hobe
+	strong hobe --done
 
