@@ -26,3 +26,10 @@ Desktop
 7. https://www.screencast.com/t/mSVtfVmM
 	strong hobe --done
 
+
+Responsive----->
+
+1. https://www.screencast.com/t/2L3Skln9
+	jokhon img full-width hosche tokhon max-width 100% daw
+	r img ar width auto daw
+
