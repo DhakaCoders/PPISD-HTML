@@ -268,6 +268,9 @@ h4 span.spn-bi{
 	padding-top: 35px;
 	padding-bottom: 18px;
 }
+.mm-group-sec-17 h2{
+	margin-bottom: 20px;
+}
 .mm-group-sec-17 h3{
 	margin-bottom: 20px;
 }
@@ -297,13 +300,13 @@ h4 span.spn-bi{
 	padding-top: 35px;
 	padding-bottom: 14px;
 }
-.mm-group-sec-19 h3{
+.mm-group-sec-19 h2{
 	margin-bottom: 26px;
 }
 
 
 
-.mm-group-sec-20 h3{
+.mm-group-sec-20 h2{
 	margin-bottom: 37px;
 }
 .mm-group-sec-20 .mm-dft-two-part{
@@ -316,10 +319,10 @@ h4 span.spn-bi{
 .mm-group-sec-21{
 	padding-top: 15px;
 }
-.mm-group-sec-21 .mm-dft-head h3:first-child{
+.mm-group-sec-21 .mm-dft-head h2:first-child{
 	margin-bottom: 40px;
 }
-.mm-group-sec-21 .mm-dft-head h3:last-child{
+.mm-group-sec-21 .mm-dft-head h2:last-child{
 	margin-bottom: 25px;
 }
 .mm-group-sec-21 .mm-dft-two-part{
@@ -331,7 +334,7 @@ h4 span.spn-bi{
 .mm-group-sec-22{
 	padding-top: 10px;
 }
-.mm-group-sec-22 .mm-dft-head h3{
+.mm-group-sec-22 .mm-dft-head h2{
 	margin-bottom: 25px;
 }
 .mm-group-sec-22 .mm-dft-two-part{
@@ -343,7 +346,7 @@ h4 span.spn-bi{
 .mm-group-sec-23{
 	padding-top: 5px;
 }
-.mm-group-sec-23 .mm-dft-head h3{
+.mm-group-sec-23 .mm-dft-head h2{
 	margin-bottom: 22px;
 }
 .mm-group-sec-23 .mm-dft-two-part{
@@ -356,7 +359,7 @@ h4 span.spn-bi{
 	padding-top: 7px;
 	padding-bottom: 45px;
 }
-.mm-group-sec-24 .mm-dft-head h3{
+.mm-group-sec-24 .mm-dft-head h2{
 	margin-bottom: 40px;
 }
 
