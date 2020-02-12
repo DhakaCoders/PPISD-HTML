@@ -397,6 +397,9 @@ h4 span.spn-bi{
 		padding-right: 0!important;
 	}
 
+	.mm-dft-two-part .mm-dft-img span img{
+	    width:auto !important;
+	}
 }
 
 @media(max-width: 767px){
