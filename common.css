@@ -246,7 +246,6 @@ h4 {
   .show-lg{
     display: block!important;
   }
-
 }
 
 @media(max-width: 991px){
@@ -256,6 +255,7 @@ h4 {
   .show-md{
     display: block!important;
   }
+    br,
   p br{
     display: none;
   }
