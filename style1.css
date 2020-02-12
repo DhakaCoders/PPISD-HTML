@@ -11,7 +11,7 @@
 	background-size: cover!important;
 	background-position: center center!important;
 	background-repeat: no-repeat!important;
-}
+} 
 .mm-group-sec-1 h1{
 	font-family: "PTSerif-Bold";
 	margin-bottom: 35px;
@@ -54,9 +54,12 @@ h4 span.spn-bi{
 	width: 	50%;
 	float: left;
 	text-align: center;
+	margin-left: -5px;
 }
 .mm-dft-two-part.two-part-reverse .mm-dft-img{
 	float: right;
+	margin-right: -5px;
+	margin-left: 0;
 }
 .mm-dft-two-part .mm-dft-des{
 	width: 	50%;
