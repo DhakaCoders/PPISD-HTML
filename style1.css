@@ -148,6 +148,11 @@ h4 span.spn-bi{
 .mm-group-sec-6 .mm-dft-two-part{
 	padding-bottom: 30px;
 }
+.mm-group-sec-6 .mm-dft-two-part.two-part-reverse .mm-dft-des {
+    padding-right: 20px;
+}
+
+
 
 .mm-group-sec-7 {
 	padding-top: 15px;
