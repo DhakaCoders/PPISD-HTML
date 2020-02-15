@@ -401,18 +401,12 @@ h4 span.spn-bi{
 .mm-group-sec-7 .mm-dft-head h2:last-child{
   margin-bottom: 35px;
 }
-
-
-
 .mm-group-sec-8{
   padding-top: 12px;
 }
 .mm-group-sec-8 .mm-dft-head h2 {
   margin-bottom: 40px;
 }
-
-
-
 .mm-group-sec-9{
   padding-top: 13px;
 }
@@ -476,7 +470,7 @@ h4 span.spn-bi{
   padding-top: 5px;
 }
 .mm-group-sec-14 .mm-dft-head h2 {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .mm-group-sec-14 .mm-dft-two-part{
   padding-bottom: 25px
@@ -859,8 +853,14 @@ h4 span.spn-bi{
   padding-top: 25px;
 }
 
-
-
+.mm-group-sec-11 .mm-dft-head h2:last-child{
+  margin-bottom: 33px;
+}
+.mm-group-sec-8 .mm-dft-head h2,
+.mm-group-sec-11 .mm-dft-head h2:last-child,
+.mm-group-sec-15 .mm-dft-head h2{
+  letter-spacing: -0.5px;
+}
 
 
 /*Responsive media*/
