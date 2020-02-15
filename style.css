@@ -232,7 +232,7 @@ h4 {
 
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
   margin-top: 0;
-  line-height: 1.1;
+  line-height: 1.2;
   font-family: "PTSerif-Regular";    
 }  
 
@@ -822,7 +822,7 @@ h4 span.spn-bi{
 
 .pp-ftr-des p{
   font-size: 18px;
-  line-height: 21px;
+  line-height: 23px;
   color: #646464;
 }
 
@@ -858,7 +858,8 @@ h4 span.spn-bi{
 }
 .mm-group-sec-8 .mm-dft-head h2,
 .mm-group-sec-11 .mm-dft-head h2:last-child,
-.mm-group-sec-15 .mm-dft-head h2{
+.mm-group-sec-15 .mm-dft-head h2,
+.mm-group-sec-17 h3{
   letter-spacing: -0.5px;
 }
 
